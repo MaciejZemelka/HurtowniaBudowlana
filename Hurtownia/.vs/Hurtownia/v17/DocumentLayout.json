@@ -3,8 +3,24 @@
   "WorkspaceRootPath": "Z:\\_STUDIA\\4sem\\IO\\REPO\\Hurtownia\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{F39632EA-E11C-4D67-850B-202ADD463C2F}|Hurtownia\\Hurtownia.vcxproj|Z:\\_STUDIA\\4sem\\IO\\REPO\\Hurtownia\\Hurtownia\\Klient.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F39632EA-E11C-4D67-850B-202ADD463C2F}|Hurtownia\\Hurtownia.vcxproj|solutionrelative:Hurtownia\\Klient.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{F39632EA-E11C-4D67-850B-202ADD463C2F}|Hurtownia\\Hurtownia.vcxproj|Z:\\_STUDIA\\4sem\\IO\\REPO\\Hurtownia\\Hurtownia\\Hurtownia.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{F39632EA-E11C-4D67-850B-202ADD463C2F}|Hurtownia\\Hurtownia.vcxproj|solutionrelative:Hurtownia\\Hurtownia.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F39632EA-E11C-4D67-850B-202ADD463C2F}|Hurtownia\\Hurtownia.vcxproj|Z:\\_STUDIA\\4sem\\IO\\REPO\\Hurtownia\\Hurtownia\\Czlowiek.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F39632EA-E11C-4D67-850B-202ADD463C2F}|Hurtownia\\Hurtownia.vcxproj|solutionrelative:Hurtownia\\Czlowiek.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F39632EA-E11C-4D67-850B-202ADD463C2F}|Hurtownia\\Hurtownia.vcxproj|Z:\\_STUDIA\\4sem\\IO\\REPO\\Hurtownia\\Hurtownia\\Czlowiek.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F39632EA-E11C-4D67-850B-202ADD463C2F}|Hurtownia\\Hurtownia.vcxproj|solutionrelative:Hurtownia\\Czlowiek.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F39632EA-E11C-4D67-850B-202ADD463C2F}|Hurtownia\\Hurtownia.vcxproj|Z:\\_STUDIA\\4sem\\IO\\REPO\\Hurtownia\\Hurtownia\\Klient.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F39632EA-E11C-4D67-850B-202ADD463C2F}|Hurtownia\\Hurtownia.vcxproj|solutionrelative:Hurtownia\\Klient.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,17 +30,69 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Klient.cpp",
+              "DocumentMoniker": "Z:\\_STUDIA\\4sem\\IO\\REPO\\Hurtownia\\Hurtownia\\Klient.cpp",
+              "RelativeDocumentMoniker": "Hurtownia\\Klient.cpp",
+              "ToolTip": "Z:\\_STUDIA\\4sem\\IO\\REPO\\Hurtownia\\Hurtownia\\Klient.cpp",
+              "RelativeToolTip": "Hurtownia\\Klient.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-23T17:00:33.074Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Klient.h",
+              "DocumentMoniker": "Z:\\_STUDIA\\4sem\\IO\\REPO\\Hurtownia\\Hurtownia\\Klient.h",
+              "RelativeDocumentMoniker": "Hurtownia\\Klient.h",
+              "ToolTip": "Z:\\_STUDIA\\4sem\\IO\\REPO\\Hurtownia\\Hurtownia\\Klient.h",
+              "RelativeToolTip": "Hurtownia\\Klient.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-23T16:59:55.746Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Czlowiek.cpp",
+              "DocumentMoniker": "Z:\\_STUDIA\\4sem\\IO\\REPO\\Hurtownia\\Hurtownia\\Czlowiek.cpp",
+              "RelativeDocumentMoniker": "Hurtownia\\Czlowiek.cpp",
+              "ToolTip": "Z:\\_STUDIA\\4sem\\IO\\REPO\\Hurtownia\\Hurtownia\\Czlowiek.cpp",
+              "RelativeToolTip": "Hurtownia\\Czlowiek.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-23T16:57:02.437Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Czlowiek.h",
+              "DocumentMoniker": "Z:\\_STUDIA\\4sem\\IO\\REPO\\Hurtownia\\Hurtownia\\Czlowiek.h",
+              "RelativeDocumentMoniker": "Hurtownia\\Czlowiek.h",
+              "ToolTip": "Z:\\_STUDIA\\4sem\\IO\\REPO\\Hurtownia\\Hurtownia\\Czlowiek.h",
+              "RelativeToolTip": "Hurtownia\\Czlowiek.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-23T16:56:55.453Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Hurtownia.cpp",
               "DocumentMoniker": "Z:\\_STUDIA\\4sem\\IO\\REPO\\Hurtownia\\Hurtownia\\Hurtownia.cpp",
               "RelativeDocumentMoniker": "Hurtownia\\Hurtownia.cpp",
               "ToolTip": "Z:\\_STUDIA\\4sem\\IO\\REPO\\Hurtownia\\Hurtownia\\Hurtownia.cpp",
               "RelativeToolTip": "Hurtownia\\Hurtownia.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-04-23T16:35:21.141Z",
               "EditorCaption": ""

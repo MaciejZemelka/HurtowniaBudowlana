@@ -1,7 +1,10 @@
-﻿
-#include <iostream>
+﻿#include <iostream>
+#include "Klient.h"
 
-int main()
-{
-    std::cout << "Hello World!\n";
+int main() {
+    Klient klient("Jan", "Nowak");
+
+    klient.wypisz_dane();
+
+    return 0;
 }
