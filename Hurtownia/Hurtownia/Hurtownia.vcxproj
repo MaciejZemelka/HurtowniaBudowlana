@@ -130,10 +130,18 @@
     <ClCompile Include="Czlowiek.cpp" />
     <ClCompile Include="Hurtownia.cpp" />
     <ClCompile Include="Klient.cpp" />
+    <ClCompile Include="Magazyn.cpp" />
+    <ClCompile Include="PozycjeZamowien.cpp" />
+    <ClCompile Include="Towar.cpp" />
+    <ClCompile Include="Zamowienie.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Czlowiek.h" />
     <ClInclude Include="Klient.h" />
+    <ClInclude Include="Magazyn.h" />
+    <ClInclude Include="PozycjeZamowien.h" />
+    <ClInclude Include="Towar.h" />
+    <ClInclude Include="Zamowienie.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

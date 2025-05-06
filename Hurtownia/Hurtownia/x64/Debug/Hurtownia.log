@@ -1,5 +1,5 @@
-﻿  Czlowiek.cpp
-  Hurtownia.cpp
-  Klient.cpp
-  Generowanie kodu...
+﻿  Hurtownia.cpp
+Z:\_STUDIA\4sem\IO\REPO\Hurtownia\Hurtownia\Hurtownia.cpp(12,38): warning C4305: "argument": obcięcie z "double" do "float"
+Z:\_STUDIA\4sem\IO\REPO\Hurtownia\Hurtownia\Hurtownia.cpp(13,36): warning C4305: "argument": obcięcie z "double" do "float"
+Z:\_STUDIA\4sem\IO\REPO\Hurtownia\Hurtownia\Hurtownia.cpp(14,42): warning C4305: "argument": obcięcie z "double" do "float"
   Hurtownia.vcxproj -> Z:\_STUDIA\4sem\IO\REPO\Hurtownia\x64\Debug\Hurtownia.exe
