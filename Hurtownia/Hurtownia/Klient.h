@@ -3,10 +3,10 @@
 
 #include "Czlowiek.h"
 #include <string>
+#include "Zamowienie.h"
 
 using namespace std;
 
-class Zamowienie; 
 
 class Klient : public Czlowiek {
 public:

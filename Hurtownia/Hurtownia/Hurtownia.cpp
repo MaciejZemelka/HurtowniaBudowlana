@@ -12,19 +12,19 @@ int main() {
     Towar* T3 = new Towar("Cement 10kg", 10.99, "Dostepny", 0, 100);
     Towar* T4 = new Towar("Cegły 100szt", 250, "NieDostepny", 0, 0);
     vector<Towar*> towary;
-    towary.push_back(T1);
+    towary.push_back(T1); 
     towary.push_back(T2);
     towary.push_back(T3);
     towary.push_back(T4);
 
     Magazyn M1 = Magazyn(towary);
 
-    M1.wyswietl_wszystkie_towary();
-    M1.wyswietl_dostepne_towary();
+   // M1.wyswietl_wszystkie_towary();
+   
 
     Klient klient("Jan", "Nowak");
     int osoba;
-    int akcja;
+    int akcja = -1;
     cout << "============================";
     cout << "Witaj w hurtowni materiałów budowlanych";
     cout << "============================\n\n";
@@ -49,6 +49,14 @@ int main() {
                 cout << "0. wyjście do wyboru\n";
                 cout << "Wybrana akcja: ";
                 cin >> akcja;
+                switch (akcja) {
+                case 1:
+                    M1.wyswietl_dostepne_towary();
+                    break;
+                default:
+                    break;
+                }
+
             }
             break;
         case 2:
@@ -63,6 +71,9 @@ int main() {
             "Wybrano nieprawidlowo";
         }
     }
-
+    for (Towar* t : towary) {
+        delete t;  
+    }
+    towary.clear();
     return 0;
 }
