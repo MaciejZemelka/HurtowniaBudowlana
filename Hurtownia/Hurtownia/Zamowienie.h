@@ -18,6 +18,10 @@ public:
     Zamowienie(int numerZamowienia, string dataZamowienia, string stutus);
     
     void dodaj_pozycje(Towar* T, int ilosc);
+    void wyswietl_zamowienie();
+    void zmien_status_zamowienia(string status);
+    void wyswietl_pozycje_zamowienia();
+    void oblicz_wartosc_zamowienia();
 };
 
 

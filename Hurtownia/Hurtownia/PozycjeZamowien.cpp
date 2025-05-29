@@ -10,4 +10,11 @@ PozycjeZamowien::PozycjeZamowien(Towar* towar, int ilosc) :
 void PozycjeZamowien::wyswietl_pozycje() {
 	towar->wyswietl_dane_towaru();
 	cout << ' | ' << ilosc << ' | ' << ilosc*towar->get_cena();
-};
+}
+void PozycjeZamowien::zmien_ilosc()
+{
+}
+void PozycjeZamowien::oblicz_wartosc_pozycji()
+{
+}
+;
