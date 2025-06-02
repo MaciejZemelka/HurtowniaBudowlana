@@ -19,7 +19,7 @@ public:
     
     void dodaj_pozycje(Towar* T, int ilosc);
     void wyswietl_zamowienie();
-    void zmien_status_zamowienia(string status);
+    void zmien_status_zamowienia(string nowyStatus);
     void wyswietl_pozycje_zamowienia();
     void oblicz_wartosc_zamowienia();
 };

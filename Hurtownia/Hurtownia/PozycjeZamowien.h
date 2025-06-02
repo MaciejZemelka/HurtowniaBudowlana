@@ -18,6 +18,8 @@ public:
 	void wyswietl_pozycje();
 	void zmien_ilosc();
 	void oblicz_wartosc_pozycji();
+	Towar* get_towar();
+	int get_ilosc();
 };
 
 
