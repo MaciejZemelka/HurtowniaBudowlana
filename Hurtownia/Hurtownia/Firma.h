@@ -14,6 +14,10 @@ public:
 
 	void wyswietl_dane_firmy();
 
+	string get_nazwa();
+	string get_adres();
+	string get_nip();
+
 };
 
 #endif
