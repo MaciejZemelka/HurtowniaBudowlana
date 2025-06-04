@@ -2,8 +2,9 @@
 #include <iostream>
 using namespace std;
 
-Zamowienie::Zamowienie(int numerZamowienia, string dataZamowienia, string stutus) :
-    numerZamowienia(numerZamowienia), dataZamowienia(dataZamowienia), status(status) {};
+Zamowienie::Zamowienie(int numerZamowienia, string dataZamowienia, string status)
+    : numerZamowienia(numerZamowienia), dataZamowienia(dataZamowienia), status(status) {
+}
 
 void Zamowienie::dodaj_pozycje(Towar* T, int ilosc) {
     pozycjeZamowienia.push_back(PozycjeZamowien(T, ilosc));
@@ -36,3 +37,7 @@ void Zamowienie::oblicz_wartosc_zamowienia()
     }
     cout << "Laczna wartosc zamowienia: " << suma << "zl" << endl;
 }
+
+
+string Zamowienie::get_status() const { return status; }
+int Zamowienie::get_numer() const { return numerZamowienia; }
