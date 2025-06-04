@@ -5,6 +5,7 @@
 #include "PozycjeZamowien.h"
 #include "Towar.h"
 #include <string>
+#include <vector>
 
 using namespace std;
 
@@ -22,6 +23,8 @@ public:
     void zmien_status_zamowienia(string nowyStatus);
     void wyswietl_pozycje_zamowienia();
     void oblicz_wartosc_zamowienia();
+    string get_status() const;
+    int get_numer() const;
 };
 
 
