@@ -1,5 +1,5 @@
 ﻿  Hurtownia.cpp
-Z:\_STUDIA\4sem\IO\REPO\Hurtownia\Hurtownia\Hurtownia.cpp(10,38): warning C4305: "argument": obcięcie z "double" do "float"
-Z:\_STUDIA\4sem\IO\REPO\Hurtownia\Hurtownia\Hurtownia.cpp(11,36): warning C4305: "argument": obcięcie z "double" do "float"
-Z:\_STUDIA\4sem\IO\REPO\Hurtownia\Hurtownia\Hurtownia.cpp(12,42): warning C4305: "argument": obcięcie z "double" do "float"
-  Hurtownia.vcxproj -> Z:\_STUDIA\4sem\IO\REPO\Hurtownia\x64\Debug\Hurtownia.exe
+Z:\_STUDIA\4sem\IO\REPO2\HurtowniaBudowlana-0407425d2e5f84622f1e449ff1ad20c8901bf81b\Hurtownia\Hurtownia\Hurtownia.cpp(11,37): warning C4305: "argument": obcięcie z "double" do "float"
+Z:\_STUDIA\4sem\IO\REPO2\HurtowniaBudowlana-0407425d2e5f84622f1e449ff1ad20c8901bf81b\Hurtownia\Hurtownia\Hurtownia.cpp(12,35): warning C4305: "argument": obcięcie z "double" do "float"
+Z:\_STUDIA\4sem\IO\REPO2\HurtowniaBudowlana-0407425d2e5f84622f1e449ff1ad20c8901bf81b\Hurtownia\Hurtownia\Hurtownia.cpp(13,42): warning C4305: "argument": obcięcie z "double" do "float"
+  Hurtownia.vcxproj -> Z:\_STUDIA\4sem\IO\REPO2\HurtowniaBudowlana-0407425d2e5f84622f1e449ff1ad20c8901bf81b\Hurtownia\x64\Debug\Hurtownia.exe

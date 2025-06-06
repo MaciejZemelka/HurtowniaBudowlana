@@ -21,15 +21,3 @@ std::string Firma::get_adres() {
 std::string Firma::get_nip() {
     return nip;
 }
-
-void Firma::set_nazwa(const std::string& nowa_nazwa) {
-    nazwa = nowa_nazwa;
-}
-
-void Firma::set_adres(const std::string& nowy_adres) {
-    adres = nowy_adres;
-}
-
-void Firma::set_nip(const std::string& nowy_nip) {
-    nip = nowy_nip;
-}
