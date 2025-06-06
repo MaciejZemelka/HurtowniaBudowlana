@@ -2,10 +2,12 @@
 #include <iostream>
 #include <vector>
 #include "Klient.h"
+#include "Zamowienie.h"
 using namespace std;
 
-Magazyn::Magazyn(vector<Towar*> towary) {
+Magazyn::Magazyn(vector<Towar*> towary, vector<Zamowienie*> zamowienia) {
     this->towary = towary;
+    this->zamowienia = zamowienia;
 }
 
 void Magazyn::wyswietl_towary(string status) {
@@ -128,18 +130,22 @@ void Magazyn::wyswietl_zamowienia(string status, Klient* k) {
             cout << endl;
             znaleziono = true;
         }
+        else if (status == ""  && k == zamowienie->get_klient()) {
+            zamowienie->wyswietl_zamowienie();
+            cout << endl;
+            znaleziono = true;
+        }
         else if (k == zamowienie->get_klient()) {
             zamowienie->wyswietl_zamowienie();
             cout << endl;
             znaleziono = true;
         }
         else {
-            cout << "inny przypadek spr wyswietl_zamoeinia";
         }
     }
 
     if (!znaleziono) {
-        cout << "Brak zamówieñ o statusie: " << status << endl;
+        cout << "Brak zamówieñ " << status << endl;
     }
 }
 

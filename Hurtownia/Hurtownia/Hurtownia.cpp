@@ -2,9 +2,11 @@
 #include "Klient.h"
 #include "Towar.h"
 #include "Magazyn.h"
-#include <windows.h> 
-#include <conio.h> 
+
 #include <cstdlib>
+
+using namespace std;
+
 int main() {
     
 
@@ -17,19 +19,23 @@ int main() {
     towary.push_back(T2);
     towary.push_back(T3);
     towary.push_back(T4);
+    vector<Zamowienie*> zamowienia;
 
-    Magazyn M1 = Magazyn(towary);
 
-   // M1.wyswietl_wszystkie_towary();
+    Magazyn* M1 = new Magazyn(towary, zamowienia);
+
+   // M1->wyswietl_wszystkie_towary();
    
 
     Klient* klient = new Klient("Jan", "Nowak");
     int osoba;
     int akcja = -1;
+    bool program = true;
     cout << "============================";
     cout << "Witaj w hurtowni materialow budowlanych";
     cout << "============================\n\n";
-    while (true) {
+    
+    while (program) {
         system("cls");
         cout << "Kim dzisiaj jestes?:\n";
         cout << "1. klient\n";
@@ -56,23 +62,25 @@ int main() {
                 switch (akcja) {
                 case 1:
                     system("cls");
-                    M1.wyswietl_towary("Dostepny");
+
+
+                    M1->wyswietl_towary("Dostepny");
                     cout << endl << endl;
                     break;
                 case 2:
                     system("cls");
-                    M1.zloz_zamowienie(klient);
+                    M1->zloz_zamowienie(klient);
                     cout << endl << endl;
                     break;
                 case 3:
                     system("cls");
-                    M1.wyswietl_zamowienia("", klient);
+                    M1->wyswietl_zamowienia("", klient);
                     cout << endl << endl;
                     break;
                 case 4:
                 {
                     system("cls");
-                    Zamowienie* z = M1.wybierz_zamowienie("Gotowe");
+                    Zamowienie* z = M1->wybierz_zamowienie("Gotowe");
                     klient->odbierz_zamowienie(z);
                     cout << endl << endl;
                     break;
@@ -80,7 +88,7 @@ int main() {
                 case 5:
                 {
                     system("cls");
-                    Zamowienie* z = M1.wybierz_zamowienie("Odebrane");
+                    Zamowienie* z = M1->wybierz_zamowienie("Odebrane");
                     klient->zwrot_zamowienia(z);
                     cout << endl << endl;
                     break;
@@ -104,26 +112,28 @@ int main() {
                 switch (akcja) {
                 case 1:
                     system("cls");
-                    M1.wyswietl_towary("");
+                    M1->wyswietl_towary("");
                     cout << endl << endl;
                     break;
                 case 2:
                     system("cls");
-                    M1.wyswietl_zamowienia("", nullptr);
+                    M1->wyswietl_zamowienia("", nullptr);
                     cout << endl << endl;
                     break;
                 case 3:
                 {
                     system("cls");
-                    Zamowienie* z = M1.wybierz_zamowienie("Zlozone");
-                    M1.przygotuj_zamowienie(z);
+                    Zamowienie* z = M1->wybierz_zamowienie("Zlozone");
+                    if (z != nullptr) {
+                        M1->przygotuj_zamowienie(z);
+                    }
                     cout << endl << endl;
                     break;
                 }
                 case 4:
                 {
                     system("cls");
-                    Towar* t = M1.wybierz_towar("");
+                    Towar* t = M1->wybierz_towar("");
                     int oIle;
                     cout << "\n Zmien stan magazynowy towaru \n";
                     t->wyswietl_dane_towaru();
@@ -154,26 +164,28 @@ int main() {
                 switch (akcja) {
                 case 1:
                     system("cls");
-                    M1.wyswietl_towary("");
+                    M1->wyswietl_towary("");
                     cout << endl << endl;
                     break;
                 case 2:
                     system("cls");
-                    M1.wyswietl_zamowienia("", nullptr);
+                    M1->wyswietl_zamowienia("", nullptr);
                     cout << endl << endl;
                     break;
                 case 3:
                 {
                     system("cls");
-                    Zamowienie* z = M1.wybierz_zamowienie("Zlozone");
-                    M1.przygotuj_zamowienie(z);
+                    Zamowienie* z = M1->wybierz_zamowienie("Zlozone");
+                    if (z != nullptr) {
+                        M1->przygotuj_zamowienie(z);
+                    }
                     cout << endl << endl;
                     break;
                 }
                 case 4:
                 {
                     system("cls");
-                    Towar* t = M1.wybierz_towar("");
+                    Towar* t = M1->wybierz_towar("");
                     int oIle;
                     cout << "\n Zmien stan magazynowy towaru \n";
                     t->wyswietl_dane_towaru();
@@ -186,14 +198,14 @@ int main() {
                 case 5:
                 {
                     system("cls");
-                    M1.dodaj_towar();
+                    M1->dodaj_towar();
                     break;
                 }
                 case 6:
                 {
                     system("cls");
                     cout << "\n Usuwanie towaru \n";
-                    Towar* t = M1.wybierz_towar("");
+                    Towar* t = M1->wybierz_towar("");
                     t->set_status("Usuniety");
                     t->wyswietl_dane_towaru();
                     cout << endl << endl;
@@ -206,9 +218,10 @@ int main() {
 
             }
             break;
+        case 0:
+            program = false;
         default:
             system("cls");
-            "Wybrano nieprawidlowo";
         }
     }
     for (Towar* t : towary) {

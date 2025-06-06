@@ -6,6 +6,7 @@
 #include "Firma.h"
 #include <string>
 #include <vector>
+#include "Zamowienie.h"
 
 class Klient;
 
@@ -19,7 +20,7 @@ private:
     vector<Zamowienie*> zamowienia;
 
 public:
-    Magazyn(vector<Towar*> towary);
+    Magazyn(vector<Towar*> towary, vector<Zamowienie*> zamowienia);
 
     void wyswietl_towary(string status);
     void usun_towar();
