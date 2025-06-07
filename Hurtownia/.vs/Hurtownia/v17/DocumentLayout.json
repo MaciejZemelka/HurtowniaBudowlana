@@ -3,8 +3,16 @@
   "WorkspaceRootPath": "Z:\\_STUDIA\\4sem\\IO\\Projekt\\HurtowniaBudowlana\\Hurtownia\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{F39632EA-E11C-4D67-850B-202ADD463C2F}|Hurtownia\\Hurtownia.vcxproj|Z:\\_STUDIA\\4sem\\IO\\Projekt\\HurtowniaBudowlana\\Hurtownia\\Hurtownia\\Towar.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F39632EA-E11C-4D67-850B-202ADD463C2F}|Hurtownia\\Hurtownia.vcxproj|solutionrelative:Hurtownia\\Towar.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{F39632EA-E11C-4D67-850B-202ADD463C2F}|Hurtownia\\Hurtownia.vcxproj|Z:\\_STUDIA\\4sem\\IO\\Projekt\\HurtowniaBudowlana\\Hurtownia\\Hurtownia\\Hurtownia.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{F39632EA-E11C-4D67-850B-202ADD463C2F}|Hurtownia\\Hurtownia.vcxproj|solutionrelative:Hurtownia\\Hurtownia.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F39632EA-E11C-4D67-850B-202ADD463C2F}|Hurtownia\\Hurtownia.vcxproj|Z:\\_STUDIA\\4sem\\IO\\Projekt\\HurtowniaBudowlana\\Hurtownia\\Hurtownia\\Towar.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F39632EA-E11C-4D67-850B-202ADD463C2F}|Hurtownia\\Hurtownia.vcxproj|solutionrelative:Hurtownia\\Towar.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F39632EA-E11C-4D67-850B-202ADD463C2F}|Hurtownia\\Hurtownia.vcxproj|Z:\\_STUDIA\\4sem\\IO\\Projekt\\HurtowniaBudowlana\\Hurtownia\\Hurtownia\\Magazyn.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -19,9 +27,6 @@
       "RelativeMoniker": "D:0:0:{F39632EA-E11C-4D67-850B-202ADD463C2F}|Hurtownia\\Hurtownia.vcxproj|solutionrelative:Hurtownia\\Zamowienie.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F39632EA-E11C-4D67-850B-202ADD463C2F}|Hurtownia\\Hurtownia.vcxproj|Z:\\VISUALSTUDIOIDE-COMMUNITY\\VC\\TOOLS\\MSVC\\14.39.33519\\INCLUDE\\XSTRING||{3B902123-F8A7-4915-9F01-361F908088D0}|"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{F39632EA-E11C-4D67-850B-202ADD463C2F}|Hurtownia\\Hurtownia.vcxproj|Z:\\_STUDIA\\4sem\\IO\\Projekt\\HurtowniaBudowlana\\Hurtownia\\Hurtownia\\PozycjeZamowien.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{F39632EA-E11C-4D67-850B-202ADD463C2F}|Hurtownia\\Hurtownia.vcxproj|solutionrelative:Hurtownia\\PozycjeZamowien.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
@@ -32,14 +37,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{F39632EA-E11C-4D67-850B-202ADD463C2F}|Hurtownia\\Hurtownia.vcxproj|Z:\\_STUDIA\\4sem\\IO\\Projekt\\HurtowniaBudowlana\\Hurtownia\\Hurtownia\\Zamowienie.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{F39632EA-E11C-4D67-850B-202ADD463C2F}|Hurtownia\\Hurtownia.vcxproj|solutionrelative:Hurtownia\\Zamowienie.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F39632EA-E11C-4D67-850B-202ADD463C2F}|Hurtownia\\Hurtownia.vcxproj|Z:\\_STUDIA\\4sem\\IO\\Projekt\\HurtowniaBudowlana\\Hurtownia\\Hurtownia\\Towar.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{F39632EA-E11C-4D67-850B-202ADD463C2F}|Hurtownia\\Hurtownia.vcxproj|solutionrelative:Hurtownia\\Towar.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F39632EA-E11C-4D67-850B-202ADD463C2F}|Hurtownia\\Hurtownia.vcxproj|Z:\\_STUDIA\\4sem\\IO\\Projekt\\HurtowniaBudowlana\\Hurtownia\\Hurtownia\\Towar.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{F39632EA-E11C-4D67-850B-202ADD463C2F}|Hurtownia\\Hurtownia.vcxproj|solutionrelative:Hurtownia\\Towar.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F39632EA-E11C-4D67-850B-202ADD463C2F}|Hurtownia\\Hurtownia.vcxproj|Z:\\_STUDIA\\4sem\\IO\\Projekt\\HurtowniaBudowlana\\Hurtownia\\Hurtownia\\Firma.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -60,6 +57,9 @@
     {
       "AbsoluteMoniker": "D:0:0:{F39632EA-E11C-4D67-850B-202ADD463C2F}|Hurtownia\\Hurtownia.vcxproj|Z:\\_STUDIA\\4sem\\IO\\Projekt\\HurtowniaBudowlana\\Hurtownia\\Hurtownia\\Czlowiek.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{F39632EA-E11C-4D67-850B-202ADD463C2F}|Hurtownia\\Hurtownia.vcxproj|solutionrelative:Hurtownia\\Czlowiek.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|Z:\\VisualStudioIDE-Community\\VC\\Tools\\MSVC\\14.39.33519\\include\\xstring||{3B902123-F8A7-4915-9F01-361F908088D0}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -69,11 +69,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 14,
               "Title": "xstring",
               "DocumentMoniker": "Z:\\VisualStudioIDE-Community\\VC\\Tools\\MSVC\\14.39.33519\\include\\xstring",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\VisualStudioIDE-Community\\VC\\Tools\\MSVC\\14.39.33519\\include\\xstring",
@@ -81,37 +81,37 @@
               "RelativeToolTip": "..\\..\\..\\..\\..\\..\\VisualStudioIDE-Community\\VC\\Tools\\MSVC\\14.39.33519\\include\\xstring",
               "ViewState": "AQIAAEoNAAAAAAAAAAAawFMNAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-06-06T17:02:10.108Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-06T17:02:10.108Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 2,
               "Title": "Towar.h",
               "DocumentMoniker": "Z:\\_STUDIA\\4sem\\IO\\Projekt\\HurtowniaBudowlana\\Hurtownia\\Hurtownia\\Towar.h",
               "RelativeDocumentMoniker": "Hurtownia\\Towar.h",
               "ToolTip": "Z:\\_STUDIA\\4sem\\IO\\Projekt\\HurtowniaBudowlana\\Hurtownia\\Hurtownia\\Towar.h",
               "RelativeToolTip": "Hurtownia\\Towar.h",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAjwBUAAAABAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAALAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-05-06T16:53:44.751Z"
+              "WhenOpened": "2025-05-06T16:53:44.751Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Hurtownia.cpp",
               "DocumentMoniker": "Z:\\_STUDIA\\4sem\\IO\\Projekt\\HurtowniaBudowlana\\Hurtownia\\Hurtownia\\Hurtownia.cpp",
               "RelativeDocumentMoniker": "Hurtownia\\Hurtownia.cpp",
               "ToolTip": "Z:\\_STUDIA\\4sem\\IO\\Projekt\\HurtowniaBudowlana\\Hurtownia\\Hurtownia\\Hurtownia.cpp",
               "RelativeToolTip": "Hurtownia\\Hurtownia.cpp",
-              "ViewState": "AQIAAGYAAAAAAAAAAAAAAHkAAAAaAAAA",
+              "ViewState": "AQIAAKUAAAAAAAAAAAAAAMEAAAAuAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-04-23T16:35:21.141Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "Zamowienie.h",
               "DocumentMoniker": "Z:\\_STUDIA\\4sem\\IO\\Projekt\\HurtowniaBudowlana\\Hurtownia\\Hurtownia\\Zamowienie.h",
               "RelativeDocumentMoniker": "Hurtownia\\Zamowienie.h",
@@ -123,7 +123,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Magazyn.h",
               "DocumentMoniker": "Z:\\_STUDIA\\4sem\\IO\\Projekt\\HurtowniaBudowlana\\Hurtownia\\Hurtownia\\Magazyn.h",
               "RelativeDocumentMoniker": "Hurtownia\\Magazyn.h",
@@ -131,12 +131,11 @@
               "RelativeToolTip": "Hurtownia\\Magazyn.h",
               "ViewState": "AQIAAA8AAAAAAAAAAAAAABMAAAAjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-05-06T16:40:10.678Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-06T16:40:10.678Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Magazyn.cpp",
               "DocumentMoniker": "Z:\\_STUDIA\\4sem\\IO\\Projekt\\HurtowniaBudowlana\\Hurtownia\\Hurtownia\\Magazyn.cpp",
               "RelativeDocumentMoniker": "Hurtownia\\Magazyn.cpp",
@@ -144,12 +143,11 @@
               "RelativeToolTip": "Hurtownia\\Magazyn.cpp",
               "ViewState": "AQIAABEAAAAAAAAAAAAlwCIAAAAlAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-05-06T16:40:16.767Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-06T16:40:16.767Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "Zamowienie.cpp",
               "DocumentMoniker": "Z:\\_STUDIA\\4sem\\IO\\Projekt\\HurtowniaBudowlana\\Hurtownia\\Hurtownia\\Zamowienie.cpp",
               "RelativeDocumentMoniker": "Hurtownia\\Zamowienie.cpp",
@@ -157,12 +155,11 @@
               "RelativeToolTip": "Hurtownia\\Zamowienie.cpp",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-05-06T17:38:38.513Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-06T17:38:38.513Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "PozycjeZamowien.cpp",
               "DocumentMoniker": "Z:\\_STUDIA\\4sem\\IO\\Projekt\\HurtowniaBudowlana\\Hurtownia\\Hurtownia\\PozycjeZamowien.cpp",
               "RelativeDocumentMoniker": "Hurtownia\\PozycjeZamowien.cpp",
@@ -170,24 +167,24 @@
               "RelativeToolTip": "Hurtownia\\PozycjeZamowien.cpp",
               "ViewState": "AQIAAAMAAAAAAAAAAAAAAAkAAAApAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-05-06T17:32:07.778Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-06T17:32:07.778Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 0,
               "Title": "Towar.cpp",
               "DocumentMoniker": "Z:\\_STUDIA\\4sem\\IO\\Projekt\\HurtowniaBudowlana\\Hurtownia\\Hurtownia\\Towar.cpp",
               "RelativeDocumentMoniker": "Hurtownia\\Towar.cpp",
               "ToolTip": "Z:\\_STUDIA\\4sem\\IO\\Projekt\\HurtowniaBudowlana\\Hurtownia\\Hurtownia\\Towar.cpp",
               "RelativeToolTip": "Hurtownia\\Towar.cpp",
-              "ViewState": "AQIAAAIAAAAAAAAAAAAjwBkAAAAnAAAA",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAkwBIAAAATAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-05-06T16:58:25.349Z"
+              "WhenOpened": "2025-05-06T16:58:25.349Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "Klient.cpp",
               "DocumentMoniker": "Z:\\_STUDIA\\4sem\\IO\\Projekt\\HurtowniaBudowlana\\Hurtownia\\Hurtownia\\Klient.cpp",
               "RelativeDocumentMoniker": "Hurtownia\\Klient.cpp",
@@ -195,12 +192,11 @@
               "RelativeToolTip": "Hurtownia\\Klient.cpp",
               "ViewState": "AQIAACAAAAAAAAAAAAAjwDIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-04-23T17:00:33.074Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-23T17:00:33.074Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 9,
               "Title": "Firma.cpp",
               "DocumentMoniker": "Z:\\_STUDIA\\4sem\\IO\\Projekt\\HurtowniaBudowlana\\Hurtownia\\Hurtownia\\Firma.cpp",
               "RelativeDocumentMoniker": "Hurtownia\\Firma.cpp",
@@ -212,7 +208,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 10,
               "Title": "Klient.h",
               "DocumentMoniker": "Z:\\_STUDIA\\4sem\\IO\\Projekt\\HurtowniaBudowlana\\Hurtownia\\Hurtownia\\Klient.h",
               "RelativeDocumentMoniker": "Hurtownia\\Klient.h",
@@ -224,7 +220,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 12,
               "Title": "Czlowiek.cpp",
               "DocumentMoniker": "Z:\\_STUDIA\\4sem\\IO\\Projekt\\HurtowniaBudowlana\\Hurtownia\\Hurtownia\\Czlowiek.cpp",
               "RelativeDocumentMoniker": "Hurtownia\\Czlowiek.cpp",
@@ -236,7 +232,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 13,
               "Title": "Czlowiek.h",
               "DocumentMoniker": "Z:\\_STUDIA\\4sem\\IO\\Projekt\\HurtowniaBudowlana\\Hurtownia\\Hurtownia\\Czlowiek.h",
               "RelativeDocumentMoniker": "Hurtownia\\Czlowiek.h",
@@ -248,7 +244,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 11,
               "Title": "PozycjeZamowien.h",
               "DocumentMoniker": "Z:\\_STUDIA\\4sem\\IO\\Projekt\\HurtowniaBudowlana\\Hurtownia\\Hurtownia\\PozycjeZamowien.h",
               "RelativeDocumentMoniker": "Hurtownia\\PozycjeZamowien.h",

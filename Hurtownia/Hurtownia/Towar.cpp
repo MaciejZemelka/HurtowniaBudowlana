@@ -29,6 +29,13 @@ void Towar::zmien_ilosc_zarezerwowanych(int ile) {
 
 void Towar::zmien_ilosc_w_magazynie(int ile) {
 	iloscWMagazynie += ile;
+	if(iloscWMagazynie > 0) {
+		set_status("Dostepny");
+	}
+	else {
+		set_status("Nie dostepny");
+	}
+
 };
 
 void Towar::set_status(string status) {
